@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5fef1a0b22498d7188959e2a2cb08af7",
-  "translation_date": "2025-08-26T07:18:43+00:00",
-  "source_file": "lessons/README.md",
-  "language_code": "tr"
-}
--->
 # Genel Bakış
 
-![Bir çizimde genel bakış](../../../translated_images/tr/ai-overview.0857791951d19500.webp)
+![Bir çizimde genel bakış](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Çizim notu: [Tomomi Imura](https://twitter.com/girlie_mac)
 

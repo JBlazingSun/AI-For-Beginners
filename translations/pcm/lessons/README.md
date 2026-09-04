@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5fef1a0b22498d7188959e2a2cb08af7",
-  "translation_date": "2025-11-18T18:13:17+00:00",
-  "source_file": "lessons/README.md",
-  "language_code": "pcm"
-}
--->
 # Overview
 
-![Overview wey dem draw like doodle](../../../translated_images/pcm/ai-overview.0857791951d19500.webp)
+![Overview wey dem draw like doodle](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 

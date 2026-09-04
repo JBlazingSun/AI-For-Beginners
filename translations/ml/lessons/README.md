@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5fef1a0b22498d7188959e2a2cb08af7",
-  "translation_date": "2025-11-25T20:36:15+00:00",
-  "source_file": "lessons/README.md",
-  "language_code": "ml"
-}
--->
 # അവലോകനം
 
-![ഒരു ഡ്രോയിങ്ങിൽ അവലോകനം](../../../translated_images/ml/ai-overview.0857791951d19500.webp)
+![ഒരു ഡ്രോയിങ്ങിൽ അവലോകനം](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > സ്കെച്ച്നോട്ട് [ടോമോമി ഇമുര](https://twitter.com/girlie_mac) എഴുതിയത്
 

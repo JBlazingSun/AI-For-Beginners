@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5fef1a0b22498d7188959e2a2cb08af7",
-  "translation_date": "2025-08-28T19:13:56+00:00",
-  "source_file": "lessons/README.md",
-  "language_code": "fi"
-}
--->
 # Yleiskatsaus
 
-![Yleiskatsaus piirroksena](../../../translated_images/fi/ai-overview.0857791951d19500.webp)
+![Yleiskatsaus piirroksena](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > Piirrosmuistiinpano: [Tomomi Imura](https://twitter.com/girlie_mac)
 

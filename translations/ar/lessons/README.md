@@ -1,15 +1,6 @@
-<!--
-CO_OP_TRANSLATOR_METADATA:
-{
-  "original_hash": "5fef1a0b22498d7188959e2a2cb08af7",
-  "translation_date": "2025-08-26T07:57:01+00:00",
-  "source_file": "lessons/README.md",
-  "language_code": "ar"
-}
--->
 # نظرة عامة
 
-![نظرة عامة في رسم توضيحي](../../../translated_images/ar/ai-overview.0857791951d19500.webp)
+![نظرة عامة في رسم توضيحي](https://github.com/microsoft/AI-For-Beginners/raw/main/lessons/sketchnotes/ai-overview.png)
 
 > رسم توضيحي بواسطة [Tomomi Imura](https://twitter.com/girlie_mac)
 
